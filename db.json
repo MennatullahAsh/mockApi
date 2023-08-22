@@ -4,8 +4,9 @@
     "id": 1,
     "url": "https://h.top4top.io/p_278553rgy1.jpeg",
     "address": "Gaza-Alnasr",
+    "title": "Private house",
     "price": 5000,
-    "description": "Charming suburban home with a spacious backyard and modern amenities. Serene retreat nestled in a picturesque location with stunning views and open-concept design.",
+    "description": "Experience the epitome of comfortable suburban living in this enchanting home situated in the heart of Gaza-Alnasr. With a price that offers exceptional value at 5000, this residence presents an inviting blend of modern luxury and tranquility. The spacious backyard beckons as a serene haven, perfect for relaxation and recreation. Nestled in a picturesque location, the home boasts breathtaking vistas that complement the open-concept design, seamlessly merging indoor and outdoor spaces. Offering 3 bedrooms and 2 bathrooms, this residence is tailored for both comfort and functionality. Whether you're looking for a permanent residence or an investment opportunity, this property, available for sale, is a testament to refined living.",
     "bedroom": 3,
     "bathroom": 2,
     "type": "sale"
@@ -13,29 +14,32 @@
   {
     "id": 2,
     "url": "https://f.top4top.io/p_2785rqi5y1.jpeg",
+    "title": "Apartment",
     "address": "Gaza-Alwahda",
     "price": 6000,
-    "description": "Charming suburban home with a spacious backyard and modern amenities. Serene retreat nestled in a picturesque location with stunning views and open-concept design.",
+    "description": "Experience the epitome of comfortable suburban living in this enchanting home situated in the heart of Gaza-Alnasr. With a price that offers exceptional value at 6000, this residence presents an inviting blend of modern luxury and tranquility. The spacious backyard beckons as a serene haven, perfect for relaxation and recreation. Nestled in a picturesque location, the home boasts breathtaking vistas that complement the open-concept design, seamlessly merging indoor and outdoor spaces. Offering 3 bedrooms and 4 bathrooms, this residence is tailored for both comfort and functionality. Whether you're looking for a permanent residence or an investment opportunity, this property, available for sale, is a testament to refined living.",
     "bedroom": 3,
-    "bathroom": 2,
+    "bathroom": 4,
     "type": "rent"
   },
   {
     "id": 3,
     "url": "https://h.top4top.io/p_2785lb8ui1.jpeg",
+    "title": "Vila",
     "address": "Gaza-Alrimal",
     "price": 1300,
-    "description": "Elegant family villa boasting a spacious backyard, modern amenities, and scenic views. Open-concept design with 4 bedrooms and 5 bathrooms.",
+    "description": "Experience the epitome of comfortable suburban living in this enchanting home situated in the heart of Gaza-Alnasr. With a price that offers exceptional value at 1300, this residence presents an inviting blend of modern luxury and tranquility. The spacious backyard beckons as a serene haven, perfect for relaxation and recreation. Nestled in a picturesque location, the home boasts breathtaking vistas that complement the open-concept design, seamlessly merging indoor and outdoor spaces. Offering 4 bedrooms and 5 bathrooms, this residence is tailored for both comfort and functionality. Whether you're looking for a permanent residence or an investment opportunity, this property, available for sale, is a testament to refined living.",
     "bedroom": 4,
     "bathroom": 5,
     "type": "sale"
   },
   {
     "id": 4,
-    "url": "https://e.top4top.io/p_2785xjmwb1.jpg",
+    "url": "https://www3.0zz0.com/2023/08/22/12/368596017.jpeg",
+    "title": "Private house",
     "address": "Gaza-Alrimal",
     "price": 1100,
-    "description": "Modern home with 3 bedrooms, 4 bathrooms, and a stylish design. Features a spacious backyard and contemporary amenities.",
+    "description": "Experience the epitome of comfortable suburban living in this enchanting home situated in the heart of Gaza-Alnasr. With a price that offers exceptional value at 1100, this residence presents an inviting blend of modern luxury and tranquility. The spacious backyard beckons as a serene haven, perfect for relaxation and recreation. Nestled in a picturesque location, the home boasts breathtaking vistas that complement the open-concept design, seamlessly merging indoor and outdoor spaces. Offering 3 bedrooms and 4 bathrooms, this residence is tailored for both comfort and functionality. Whether you're looking for a permanent residence or an investment opportunity, this property, available for sale, is a testament to refined living.",
     "bedroom": 3,
     "bathroom": 4,
     "type": "rent"
@@ -43,9 +47,10 @@
   {
     "id": 5,
     "url": "https://k.top4top.io/p_2785zbjt51.jpg",
+    "title": "House",
     "address": "Gaza-Alwahda",
     "price": 1400,
-    "description": "Luxurious 4-bedroom home with 4 bathrooms. Offers a spacious backyard, modern amenities, and scenic views. Ideal for a stylish living experience.",
+    "description": "Experience the epitome of comfortable suburban living in this enchanting home situated in the heart of Gaza-Alnasr. With a price that offers exceptional value at 1400, this residence presents an inviting blend of modern luxury and tranquility. The spacious backyard beckons as a serene haven, perfect for relaxation and recreation. Nestled in a picturesque location, the home boasts breathtaking vistas that complement the open-concept design, seamlessly merging indoor and outdoor spaces. Offering 4 bedrooms and 4 bathrooms, this residence is tailored for both comfort and functionality. Whether you're looking for a permanent residence or an investment opportunity, this property, available for sale, is a testament to refined living.",
     "bedroom": 4,
     "bathroom": 4,
     "type": "sale"
@@ -53,12 +58,14 @@
   {
     "id": 6,
     "url": "https://d.top4top.io/p_27852kz3x1.jpg",
+    "title": "Vila",
     "address": "Gaza-Alwahda",
     "price": 2500,
-    "description": "Stunning 5-bedroom home with 6 bathrooms available for rent. Enjoy modern amenities, a spacious backyard, and a serene environment.",
+    "description": "Experience the epitome of comfortable suburban living in this enchanting home situated in the heart of Gaza-Alnasr. With a price that offers exceptional value at 2500, this residence presents an inviting blend of modern luxury and tranquility. The spacious backyard beckons as a serene haven, perfect for relaxation and recreation. Nestled in a picturesque location, the home boasts breathtaking vistas that complement the open-concept design, seamlessly merging indoor and outdoor spaces. Offering 5 bedrooms and 6 bathrooms, this residence is tailored for both comfort and functionality. Whether you're looking for a permanent residence or an investment opportunity, this property, available for sale, is a testament to refined living.",
     "bedroom": 5,
     "bathroom": 6,
     "type": "rent"
   }
 ]
 }
+
